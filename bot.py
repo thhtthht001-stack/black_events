@@ -40,7 +40,7 @@ from vk_api.utils import get_random_id
 #                              НАСТРОЙКИ
 # =========================================================================
 
-TOKEN = os.environ.get("VK_GROUP_TOKEN", "vk1.a.pNxaYNM2ViC2vVSSemtyhGkIce9XiLEIUFlQSFqiPeEmLMI0QPcsle4hA2Gm4MJsVgpxnKqHaL_b1yhO8_X3qg0b3OA6Hcw4uYBil6Pzvbh8jukqJM_5MwN5TlWH_AYh77DFUemowf9PMxBSgDmmPOlsSnrvegldRUEFcn-vihXIZahXXonV24juGpMnyY3z68C5JMkmlU_Y0Pj420WUrQ")
+TOKEN = os.environ.get("VK_GROUP_TOKEN", "vk1.a.0kfvpMXiRolgHAPgcHepAufH6BIoJJLe-0P43SKlj8jepaYk0xvTAD2J0EckuZT6zuJfLUK5Ibijixxz-pcs5xQiy-AL9h0L8PbWlG_99ziYCeFm5f9xUEePk-3D4UqsMh9TaapXykbmzDDmLCS8ZTbW62FUOYwABIjYGSa2rzPvqneUkvXsg8mK-VA-gG6JnLicO7g9gFRiarLZaiLVHw")
 GROUP_ID = os.environ.get("VK_GROUP_ID", "240845732")
 BOT_START_TIME = time.time()
 
